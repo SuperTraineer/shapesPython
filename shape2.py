@@ -2,7 +2,7 @@ from turtle import *
 
 speed(0)
 bgcolor("black")
-color("cyan")
+color("yellow")
 pensize(2)
 
 for i in range(600):
